@@ -1,6 +1,8 @@
 import scrapy
 from bs4 import BeautifulSoup
 
+from article_scraper.utils import writer
+
 
 class NDTVGadgets(scrapy.Spider):
     name = "ndtv"
@@ -28,10 +30,7 @@ class NDTVGadgets(scrapy.Spider):
     def get_review(self, response):
         soup = BeautifulSoup(response.body, 'html.parser')
         review = soup.find(id="center_content_div").find("div", {"class": "content_text row description"})
-        review_text = review.find_all('p')
+        review_text = review.text
         url = response.url.split('/')[-1]
         filename = f'NDTVreview-{self.product}-{url}.txt'
-        with open(filename, 'w+') as f:
-            for text in review_text:
-                f.write(text.text)
-                f.write('\n')
+        writer.write_review(review_text, filename)

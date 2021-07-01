@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  scrape:
+    build: .
+    volumes:
+    - .:/usr/src/article_scraper
+    tty: true
