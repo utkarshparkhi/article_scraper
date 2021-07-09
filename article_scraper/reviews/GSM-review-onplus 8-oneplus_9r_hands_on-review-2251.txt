@@ -1,0 +1,76 @@
+summary: OnePlus 9R is the successor to the OnePlus 8T. It has a 6.55-inch display, a 48-MP main camera and a 16-MP front camera. The phone is powered by a Qualcomm Snapdragon 870 5G processor.
+ oneliner: OnePlus has launched its latest smartphone, the OnePlus 9R, in the US.
+ 
+Introduction
+Reviewing the OnePlus 9R feels like a deja vu. Except it's not just a fleeting feeling. We have reviewed this phone before. Back then it was known as the OnePlus 8T.
+
+It's not often that we see a manufacturer launch pretty much the same phone twice in a row, but that appears to be the case here. Calling the OnePlus 9R similar to the OnePlus 8T would be an understatement. For all intents and purposes, they are almost exactly the same phone.
+OnePlus 9R specs at a glance:
+
+Body: 161.0x74.1x8.4mm, 189g; Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame.
+Display: 6.55" Fluid AMOLED, 120Hz, HDR10+, 1080x2400px resolution, 20:9 aspect ratio, 402ppi; Always-on display.
+Chipset: Qualcomm SM8250-AC Snapdragon 870 5G (7 nm): Octa-core (1x3.2 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585); Adreno 650.
+Memory: 128GB 8GB RAM, 256GB 12GB RAM; UFS 3.1.
+OS/Software: Android 11, OxygenOS 11.
+Rear camera: Wide (main): 48 MP, f/1.7, 26mm, 1/2.0", 0.8µm, PDAF, OIS; Ultra wide angle: 16 MP, f/2.2, 14mm, 123˚, 1/3.6", 1.0µm; Macro: 5 MP, f/2.4; Depth: 2 MP, f/2.4.
+Front camera: 16 MP, f/2.4, (wide), 1/3.06", 1.0µm.
+Video capture: Rear camera: 4K@30/60fps, 1080p@30/60/240fps, Auto HDR, gyro-EIS; Front camera: 1080p@30fps, gyro-EIS.
+Battery: 4500mAh; Fast charging 65W, 1-100% in 39 min (advertised).
+Misc: Fingerprint reader (under display, optical); NFC.
+Okay, there are a few differences. Perhaps the most important one is the fact that the OnePlus 9R is currently exclusive to India, with no announced plans to release it elsewhere. Also, the OnePlus 9R is launching at a lower price than the OnePlus 8T did, starting at INR 39,999 versus the INR 43,999 of the OnePlus 8T.
+The other differences are less meaningful. The OnePlus 9R runs on the new Snapdragon 870 instead of the 865. Calling it "new" is greatly exaggerating the situation, as it is essentially the same part as the 865 but with an overclock on the CPU and GPU. And finally, the OnePlus 9R has also received a slight facelift and comes in two new color options.
+Is that enough for the OnePlus 9R to be a separate phone? We'll just have to find out.
+Unboxing
+The OnePlus 9R comes with a fairly standard OnePlus packaging, consisting of the phone, charger, cable, and a clear silicone case. The packaging is identical to the OnePlus 8T, except for one major difference.
+
+Both the OnePlus 9R and 8T claim to come with the Warp Charge 65 charger, but they are not the same models. The OnePlus 8T comes with WC065A21GB in India, while the OnePlus 9R comes with WC065B22GB. The difference is that while both can send 65W of power to a compatible OnePlus device, the OnePlus 8T charger can also send up to 45W to a USB-Power Delivery (PD) and Programmable Power Supply (PPS) compatible devices.
+
+
+OnePlus 8T charger on the left and OnePlus 9R charger on the right
+On the other hand, the OnePlus 9R charger will fall back to standard 10W charging when connected to a non-OnePlus device. It also has a standard USB-A port, unlike the USB-C port on the 8T charger, which is necessary to support USB PD. This doesn't change anything for charging the OnePlus 9R itself. Still, if you also intend to use the charger for other devices around you, especially USB PD devices, then the OnePlus 9R charger isn't going to be anywhere as good as the OnePlus 8T's charger.
+summary: OnePlus 9R is the successor to the OnePlus 8T. It has a 6.55-inch display, a 48-MP main camera and a 16-MP front camera. The phone is powered by a Qualcomm Snapdragon 870 5G processor.
+ oneliner: OnePlus has launched its latest smartphone, the OnePlus 9R, in the US.
+ 
+Introduction
+Reviewing the OnePlus 9R feels like a deja vu. Except it's not just a fleeting feeling. We have reviewed this phone before. Back then it was known as the OnePlus 8T.
+
+It's not often that we see a manufacturer launch pretty much the same phone twice in a row, but that appears to be the case here. Calling the OnePlus 9R similar to the OnePlus 8T would be an understatement. For all intents and purposes, they are almost exactly the same phone.
+OnePlus 9R specs at a glance:
+
+Body: 161.0x74.1x8.4mm, 189g; Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame.
+Display: 6.55" Fluid AMOLED, 120Hz, HDR10+, 1080x2400px resolution, 20:9 aspect ratio, 402ppi; Always-on display.
+Chipset: Qualcomm SM8250-AC Snapdragon 870 5G (7 nm): Octa-core (1x3.2 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.80 GHz Kryo 585); Adreno 650.
+Memory: 128GB 8GB RAM, 256GB 12GB RAM; UFS 3.1.
+OS/Software: Android 11, OxygenOS 11.
+Rear camera: Wide (main): 48 MP, f/1.7, 26mm, 1/2.0", 0.8µm, PDAF, OIS; Ultra wide angle: 16 MP, f/2.2, 14mm, 123˚, 1/3.6", 1.0µm; Macro: 5 MP, f/2.4; Depth: 2 MP, f/2.4.
+Front camera: 16 MP, f/2.4, (wide), 1/3.06", 1.0µm.
+Video capture: Rear camera: 4K@30/60fps, 1080p@30/60/240fps, Auto HDR, gyro-EIS; Front camera: 1080p@30fps, gyro-EIS.
+Battery: 4500mAh; Fast charging 65W, 1-100% in 39 min (advertised).
+Misc: Fingerprint reader (under display, optical); NFC.
+Okay, there are a few differences. Perhaps the most important one is the fact that the OnePlus 9R is currently exclusive to India, with no announced plans to release it elsewhere. Also, the OnePlus 9R is launching at a lower price than the OnePlus 8T did, starting at INR 39,999 versus the INR 43,999 of the OnePlus 8T.
+The other differences are less meaningful. The OnePlus 9R runs on the new Snapdragon 870 instead of the 865. Calling it "new" is greatly exaggerating the situation, as it is essentially the same part as the 865 but with an overclock on the CPU and GPU. And finally, the OnePlus 9R has also received a slight facelift and comes in two new color options.
+Is that enough for the OnePlus 9R to be a separate phone? We'll just have to find out.
+Unboxing
+The OnePlus 9R comes with a fairly standard OnePlus packaging, consisting of the phone, charger, cable, and a clear silicone case. The packaging is identical to the OnePlus 8T, except for one major difference.
+
+Both the OnePlus 9R and 8T claim to come with the Warp Charge 65 charger, but they are not the same models. The OnePlus 8T comes with WC065A21GB in India, while the OnePlus 9R comes with WC065B22GB. The difference is that while both can send 65W of power to a compatible OnePlus device, the OnePlus 8T charger can also send up to 45W to a USB-Power Delivery (PD) and Programmable Power Supply (PPS) compatible devices.
+
+
+OnePlus 8T charger on the left and OnePlus 9R charger on the right
+On the other hand, the OnePlus 9R charger will fall back to standard 10W charging when connected to a non-OnePlus device. It also has a standard USB-A port, unlike the USB-C port on the 8T charger, which is necessary to support USB PD. This doesn't change anything for charging the OnePlus 9R itself. Still, if you also intend to use the charger for other devices around you, especially USB PD devices, then the OnePlus 9R charger isn't going to be anywhere as good as the OnePlus 8T's charger.
+summary: The OnePlus 9R has the same 6.55-inch, 2400x1800 resolution 120Hz AMOLED display as the OnePlus 8T and also the OnePlus 9. The Lake Blue color may look similar to the Aquamarine Green of the 8T as that color had a tendency to shift and turn blue depending on the angle of the light but it's just a plain solid blue with no optical trickery. The overall build quality and finish are also quite premium, with the mechanical
+ oneliner: The OnePlus 9R is the company's latest flagship phone, and it comes in two new colors - Lake Blue and Carbon Black.
+ 
+Design
+Considering the OnePlus 9R is basically the same phone as the OnePlus 8T, it's no surprise that the design is identical.
+
+The key difference is in the camera bump on the back. If you look carefully, the camera lenses are exactly in the same spot as before, but the part surrounding the lenses has been swapped. The 8T had a single large piece of glass covering all the lenses, making it convenient to clean. The OnePlus 9R has a design that looks similar to the other OnePlus 9 series phones, with individual cutouts for the lenses with a plastic shroud.
+
+Further down the back, OnePlus has dropped its company name from the bottom of the phone, instead now choosing to just apply its logo, which has been centered and made solid black. We prefer this less busy appearance.
+The only remaining difference is in the colors; the OnePlus 9R comes in two new options, a glossy Lake Blue pictured here and a matte Carbon Black. The Lake Blue color may look similar to the Aquamarine Green of the OnePlus 8T as that color had a tendency to shift and turn blue depending on the angle of the light but it's just a plain solid blue with no optical trickery.
+
+Apart from that, we noticed no other visual differences between the two models. The OnePlus 9R otherwise is relatively reasonably sized compared to its larger siblings, and the overall dimensions and weight make it much nicer to use. The overall build quality and finish are also quite premium, with the mechanical slider and buttons on the side having a firm, satisfactory feel. However, like the 8T, the OnePlus 9R lacks dust and water-resistance certification.
+Display
+The OnePlus 9R has the same 6.55-inch, 2400x1800 resolution 120Hz AMOLED display as the OnePlus 8T and also the OnePlus 9. The display performed similarly to that on the 8T with one notable difference. While our OnePlus 8T display has a very prominent color shift when viewed at an angle, our OnePlus 9R display did not. This could be down to panel variance and not necessarily any deliberate change in the panel being used.
+
+Overall, this is still a very good display, so we don't have much to complain about here. It's also flat, so there's not much chance of triggering something at the edge of the display while handling the phone or catching glare off-angle. The built-in optical fingerprint sensor is also located in a more sensible location compared to that on the OnePlus 9 and 9 Pro, which have it right at the bottom.

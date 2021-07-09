@@ -1,6 +1,6 @@
+from scrapy.downloadermiddlewares.httpproxy import HttpProxyMiddleware
 from stem import Signal
 from stem.control import Controller
-from scrapy.downloadermiddlewares.httpproxy import HttpProxyMiddleware
 
 
 def new_tor_identity():
@@ -17,12 +17,11 @@ class ProxyMiddleware(HttpProxyMiddleware):
             return request
         return response
 
-
     def process_request(self, request, spider):
         # Set the Proxy
 
         # A new identity for each request
         # Comment out if you want to get a new Identity only through process_response
         new_tor_identity()
-
         request.meta['proxy'] = 'http://127.0.0.1:8118'
+        spider.log('Proxy : %s' % request.meta['proxy'])

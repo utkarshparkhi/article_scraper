@@ -1,0 +1,59 @@
+summary: Asus Zenfone 8 Flip is a smaller version of the popular Zenfones 7 Pro and 7 Pro Pro. The Flip has a larger 6.67" Super AMOLED display with a resolution of 1080x2400px and a 20:9 aspect ratio. It has a 64MP main camera and a 12MP Ultra wide angle camera with PDAF. It costs £719.99 ($659.99) and £795 ($795)
+ oneliner: Asus has unveiled its latest smartphone, the Zenfone 8 Flip, which aims to fill in the gap of a mini Android flagship.
+ 
+
+
+Pricing
+		
+
+These are the best offers from our affiliate partners. We may get a commission from qualifying sales.
+
+
+
+
+
+128GB 8GB RAM
+£ 719.99
+$ 659.99
+
+
+256GB 8GB RAM
+€ 795.24
+£ 734.99
+
+
+
+Show all prices
+
+
+Introduction and specs
+The Asus Zenfone 7 series had a Pro and non-Pro model, but now, the Zenfone 8 series takes a different approach with its two offerings named Zenfone 8 Flip and just Zenfone 8. The former retains the iconic flip camera mechanism, while the smaller model aims to fill in the gap of a full-fledged mini Android flagship. 
+
+Interestingly, Asus has stressed that the Flip isn't the direct successor to the Zenfone 7 Pro - the vanilla 8 is. This also explains why the 8 got the more meaningful upgrades while the 8 Flip seems like a side-grade.
+
+Regardless of their smartphone positioning, in the grand scheme of things, Asus seems to be filling a certain vacant spot in the market. The spot of an enthusiast's brand that challenges the status quo and offers flagship killer devices like OnePlus used to do. 
+Asus Zenfone 8 Flip specs at a glance:
+
+Body: 165.0x77.3x9.6mm, 230g; Glass front (Gorilla Glass 6), glass back (Gorilla Glass 3), aluminum frame.
+Display: 6.67" Super AMOLED, 90Hz, HDR10+, 1000 nits (peak), 1080x2400px resolution, 20:9 aspect ratio, 395ppi; Always-on display.
+Chipset: Qualcomm SM8350 Snapdragon 888 5G (5 nm): Octa-core (1x2.84 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680); Adreno 660.
+Memory: 256GB 8GB RAM; UFS 3.1; microSDXC (dedicated slot).
+OS/Software: Android 11, ZenUI 8.
+Rear camera: Wide (main): 64 MP, f/1.8, 26mm, 1/1.73", 0.8µm, PDAF; Ultra wide angle: 12 MP, f/2.2, 112˚, 14mm, 1/2.55", 1.4µm, dual pixel PDAF; Telephoto: 8 MP, f/2.4, 80mm, PDAF, 3x optical zoom.
+Front camera: Motorized flip-up main camera module.
+Video capture: Rear camera: 8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps, 720p@480fps; gyro-EIS, HDR; Front camera: 8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps, 720p@480fps; gyro-EIS, HDR.
+Battery: 5000mAh; Fast charging 30W, USB Power Delivery 3.0.
+Misc: Fingerprint reader (under display, optical); NFC; 3 microphones; 
+We are not saying that other brands like Xiaomi lack any affordable flagship propositions. However, the  Zenfone 8 Flip and the 8 vanilla each offers something the others don't. The former aims to be the selfie king and gets bonus points for its camera setup on the back, which is versatile in more than one way. The 8 is, well, a proper compact flagship, a rare breed these days. 
+
+We will focus on the Flip in this review. It impresses not only with the price but also seems to be cutting way fewer corners than its predecessors. It's the most mature flip camera Zenfone yet, so to speak. A quick skim through the specs sheet suggests an almost full-fledged flagship experience with clean Android UI without breaking the bank. Does that sound familiar? It's what OnePlus used to stand for.
+The clean Android experience doesn't have to be bland, though. Asus has baked in more than a handful of custom software features that elevate the user experience.
+
+On the other hand, the Zenfone 8 Flip has fewer upgrades to boast about. The same 90Hz OLED panel is on board along with the unchanged camera setup, and there is no 3.5mm jack despite the fact there is one on the more compact vanilla Zenfone 8. We would have expected more upgrades in this year's generational upgrade. But perhaps there's more than meets the eye, so let's get on with our review and unravel what the Zenfone 8 Flip is all about.
+Unboxing the Asus Zenfone 8 Flip
+The handset comes inside a stylish, gray-colored box with some goodies inside. It starts with the 30W fast charging brick and a corresponding USB-C to USB-C cable. 
+
+Asus has also included a custom protective case. Our experience with it is mixed because it's made of hard plastic and makes the phone even bulkier, and it's arguably less grippy than the phone itself.
+Then again, we appreciate the patterned design, which is way better than the cheap transparent cases that usually come with phones. Also, the fact that you get a case out of the box is a nice bonus given the unusual, niche design of the Flip. We suspect aftermarket cases will be scarce, especially at launch.
+
+Speaking of the case, it has a small switch next to the camera module that locks the flip module in place. Asus says it's particularly useful when the phone is put on a bike, for example. The system would know it's locked, and the Flip would stay in place even if strong vibrations occur.

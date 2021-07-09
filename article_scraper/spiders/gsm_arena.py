@@ -16,9 +16,10 @@ class GSMArena(scrapy.Spider):
 
     def get_review_page(self, response):
         soup = BeautifulSoup(response.body, 'html.parser')
-        review_links = soup.find(id="reviews").find_all("div", {"class": "review-item-media-wrap"})
+        review_links = soup.find(id="reviews").find_all("div", {"class": "review-item-content"})
         for link in review_links:
-            yield scrapy.Request(url=self.base_url + link.a["href"], callback=self.get_review, cb_kwargs={"flen": 0})
+            yield scrapy.Request(url=self.base_url + link.a["href"], callback=self.get_review,
+                                 cb_kwargs={"pub_date": link.find("span", {"class": "meta-item-time"}).text})
         product_links = soup.find(id="review-body").find_all("div", {"class": "makers"})
         if len(product_links):
             product_links = product_links[0].find_all("a")
@@ -32,17 +33,18 @@ class GSMArena(scrapy.Spider):
         if len(review_link):
             review_link = review_link[0]
             link = review_link.a['href']
-            print(link)
-            yield scrapy.Request(url=self.base_url + link, callback=self.get_review, cb_kwargs={"flen": 0})
+            yield scrapy.Request(url=self.base_url + link, callback=self.get_review)
 
     def get_review(self, response, **kwargs):
         soup = BeautifulSoup(response.body, 'html.parser')
         review = soup.find(id="review-body")
-        url = response.url.split('/')[-1].split('.')[0]
-        flen = min(kwargs['flen'], len(url)) if kwargs['flen'] else len(url)
-        filename = f'GSM-review-{self.product}-{url[:flen]}.txt'
-        writer.write_review(review.text, filename)
+        rating = soup.find("span", {"class": "score"})
+        if rating is not None:
+            kwargs.update({"rating": rating.text})
+        url = response.url
+        kwargs.update({"domain": self.name})
+        writer.dump_data(review.text, url, **kwargs)
         next_page_url = soup.find("div", {"class": "article-pages col"})
         if next_page_url is not None:
             next_page_url = next_page_url.a['href']
-            yield scrapy.Request(url=self.base_url + next_page_url, callback=self.get_review, cb_kwargs={"flen": flen})
+            yield scrapy.Request(url=self.base_url + next_page_url, callback=self.get_review, cb_kwargs=kwargs)

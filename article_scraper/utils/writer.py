@@ -1,20 +1,12 @@
-import os
-import errno
-
-from article_scraper.constants import APP_DIR
+from article_scraper.constant import DB_CONFIG
 
 
-def write_review(text, filename):
-    filename = APP_DIR + "/reviews/" + filename
-    if not os.path.exists(os.path.dirname(filename)):
-        try:
-            os.makedirs(os.path.dirname(filename))
-        except OSError as exc:  # Guard against race condition
-            if exc.errno != errno.EEXIST:
-                raise
-    if os.path.exists(filename):
-        choice = "a"
+def dump_data(article, url, **kwargs):
+    data = {"url": url, "text": article, "processed": False}
+    data.update(kwargs)
+    if DB_CONFIG.review_col.find_one({"url": url}) is None:
+        x = DB_CONFIG.review_col.insert_one(data)
+        return x
     else:
-        choice = "w"
-    with open(filename, choice) as f:
-        f.write(text)
+        x = DB_CONFIG.review_col.update({"url": url}, data)
+        return x

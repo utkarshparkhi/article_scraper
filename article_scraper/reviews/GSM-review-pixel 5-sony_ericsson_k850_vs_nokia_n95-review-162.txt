@@ -1,0 +1,157 @@
+summary:  GSMArena heads-on 5 megapixel cameraphone shootout. Sony Ericsson K850 will be out selling really soon. Nokia N95 has been out long enough now that it's even got an update - an 8GB version with a larger screen and a larger battery.
+ oneliner: The Sony Ericsson K850 is the latest GSM cameraphone to hit the 5 megapixel mark, but is it the best?
+ 
+Introduction
+This year several GSM cameraphones have already reached the 5 megapixel barrier. The Nokia N95 has been out long enough now that it's even got an update - an 8GB version with a larger screen and a larger battery so obviously it will stick around as a Nokia flagship for quite some time. The Sony Ericsson K850 will be out selling really soon and it's surely going to be the Sony Ericsson cameraphone of cameraphones. Taking those two with a pinch of the 5 megapixel LG KU990 Viewty must surely add for one interesting comparison. And since we were curious probably as much as everybody else out there, we didn't lose any more time and we set off our GSMArena heads-on 5 megapixel cameraphone shootout - we thought that it would be fun and we really like to… well, shoot things. And it really turned out to be fun.
+
+
+
+
+Official photos of Sony Ericsson K850
+
+
+
+
+Official photos of Nokia N95
+Before we start though, we should point out that it's really hard to tell which of the 5 megapixel shooters is the best. First off, our Sony Ericsson K850 test unit is actually a pre-release version (expect our detailed review really soon), so changes in the camera algorithm are likely to be made. They all pack top-notch camera performance and there's not an easy way to announce a clear winner. As each of them has its own quirks we've tried to apply a scoring system that would evaluate their overall performance based on their particular performance in different shooting scenes. Each handset can get a maximum of 5 points for its performance in the individual tests. But bear in mind that we haven't applied any weight factor to these tests which simply means that shooting in the dark is equally important as shooting under bright sun. In real life however this is not always the case - many of you shoot only during the day, while others will find themselves with the lens cover open only at night-time parties. So in the end, it's up to you to decide which cameraphone will suit your shooting preferences the best. Enough small talk, let's get to work.
+
+
+
+
+The two rivals
+Taking a peek at the EXIF
+Both mobiles save detailed EXIF information to the JPG files. This fact helps us a lot in our test. The focal length of the Sony Ericsson K850 is recorded there as 5.18 mm, while the one of the Nokia N95 it is 5.60 mm. That along with the fact that the two phones have the same field of view means that Nokia N95 has larger sensor and we can expect better performance from this phone in terms of noise and dynamic range.
+Studio, moderate light
+We started off with several studio trials in order to determine how the handsets deal with several controlled lighting situations. 
+
+
+
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full) • 100% crops • LG KU990 Viewty (full)
+
+
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full) • 100% crops 
+
+
+LG KU990 Viewty (full)
+Even from the thumbnails you can see the different color reproduction from the two photo mobiles. Neither of the phones is spot-on, but the real poster looks closer to what Nokia N95 shows. Sony Ericsson auto mode chooses 1/30 sec and ISO 64, which is a good choice, while the Nokia strangely prefers to shoot at 1/111 sec and ISO 200. No idea why N95 needed the ISO boost. 
+
+Bear in mind that the ISO and the shutter speed are the single two elements that determine the amount of light that is to be captured, when you have a fixed aperture size. A slower shutter speed allows more light to reach to the matrix. A higher ISO makes the matrix more sensitive to the light that comes in. However it's a really fine balance between these two, since the higher the ISO is, the more noise there is on the image. The slower the shutter speed, the more likely you are to get a blurry picture due to camera shake. The camera software has to balance those two in the best possible way to avoid both blurring and noise. Sometimes one is taken care of at the expense of the other - it's up to the camera to decide, really.
+At first look N95 surprises us with a cleaner looking image (look at the first crop or at the sky).  Very good ISO 200 performance indeed. However, looking a little bit deeper we've noticed the price paid. Nokia has implemented some clever noise suppressing technique, which delivers smooth image. In some cases however, it also results in a loss of detail, look at the second crop - the fine texture of the chair is missing and the sand looks very strange. The noisier image of K850 presents the sand a lot better. The file size of the K850 is twice as big, which is not a surprise, the noise reduction in Nokia N95 loses a lot of fine detail. You can see the same effect in some outdoor photos if you look carefully at the foliage. Overall, we've decided that the Sony Ericsson approach is slightly better, as image noise can be fixed with specialized software, while the lost detail in the N95 photo cannot be recovered. 
+
+
+
+Bear in mind that the ISO and the shutter speed are the single two elements that determine the amount of light that is to be captured, when you have a fixed aperture size. A slower shutter speed allows more light to reach to the matrix.
+ADVERTISEMENTS
+
+
+
+
+
+
+
+
+We've also added a sample from a pre-beta LG KU990 unit (expect our detailed KU990 review soon). It doesn't show bad results, but the JPG compression is pushed a little too much and this can be seen in the sky, and we expect this to be fixed in the market version. With such file is too hard to compare the LG to the other two, but it looks like a strong player.
+
+K850 vs N95 - 4:3
+Studio, poor light
+We've decided to test what will happen if we use a considerably poorer light. 
+
+
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full) • 100% crops
+Nokia N95 kept the ISO 200, just slowing the shutter to 1/17 sec. K850 used even slower shutter - 1/10 sec and increasing the ISO to 125. Note, that with shutter speeds like this you will usually end with unusable photos, because of the motion blur. Anyway, here Nokia is a clear winner, not much to explain. 
+K850 vs N95 - 2:4
+Flash photos
+We've tested the flash performance in almost total darkness. We expected Sony Ericsson K850 to win easily, because of the xenon flash and it did. Because of the weak LED light, N95 had to pump up the ISO up to 800 and even underexpose a bit. 
+K850 vs N95 - 4:1
+
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full) • 100% crops
+summary: K850 vs N95 - 3:4 macro shots can really make the difference when you boast with your cameraphone in front of your friends. We took four shots and we present you the best of these, which is still not good. Nokia N95 copes with this installation a lot better.
+ oneliner: Sony Ericsson K850 vs Nokia N95 - a comparison of the best photos.
+ 
+Outdoor, strong light
+Taking a step out the door brings us to this next test - the outdoor shooting. 
+
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full) • 100% crops
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full)
+
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full)• 100% crops
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full)
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full)
+Here, with the help of the strong sunlight, both cameras can really show their best. The details are high for both of the contenders, but in most of the photos we can see a certain advantage of Nokia N95. The colors are not correct again, especially the reds. Anyway, our subjective opinion is that the Nokia colors are more pleasant for the eye and closer to the real scene. We can also see some color aberration in the Sony Ericsson K850 samples. In rare cases you can see an evidence of noise suppression in the Nokia results - the tree foliage turns into a green cloud (check the second crop). 
+K850 vs N95 - 3:4
+Close-up photos
+Well, making some wonderful macro shots can really make the difference when you boast with your cameraphone in front of your friends. 
+
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full) • 100% crops
+It's a good opportunity to examine these photos, because finally the two camera automatics decided to shoot with the same parameters - ISO 100, 1/100 sec. Again, the colors are not correct in neither of the two cameras, but N95 is closer to the real colors. Also, it turns out that the noise suppression technique implemented works best with plastic objects like these. Sony Ericsson K850 produced noisier image, but with no additional detail.
+
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full) • 100% crops
+We have no idea what is causing trouble for the K850 with this shot. We took four shots and we present you the best of these, which is still not good. Nokia N95 copes with this installation a lot better.
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full)
+When going really close, Sony Ericsson K850 has one advantage, demonstrated in this set of photos. The smaller auto focus frame helps you to select which part of the object you want to be in perfect focus, in this case the center of the flower. The large auto focus frame in Nokia 95 fits the whole flower and as a result the top edge of the flower got focused, wrong choice in this case. Of course, with some practice, you might learn to overcome this fault. 
+K850 vs N95 - 3:4
+
+
+
+When going really close, Sony Ericsson K850 has one advantage, demonstrated in this set of photos. The smaller auto focus frame helps you to select which part of the object you want to be in perfect focus, in this case the center of the flower. 
+ADVERTISEMENTS
+
+
+
+
+
+
+
+
+Dynamic range, handling highlights
+While also a macro shot, the purpose of this shot is to show what happens when the contrast in the scene exceeds the sensor capabilities.
+
+
+
+
+Sony Ericsson K850 (full) • Nokia N95 (full) • 100% crops
+
+
+Nokia N95 has an advantage here, because of the slightly bigger sensor and you can see from the crop that indeed it has smaller overexposed areas and they are presented in a more natural way. In the Sony Ericsson photo you can see some purple fringing too. 
+K850 vs N95 - 2:4
+Video
+We can announce the winner here by looking at the specs only. Nokia N95 records in VGA, while K850 reached just QVGA, both in 30fps. This means that the Nokia records 4 times more information, so as you may guess there is no competition. Anyway, just for the record we are publishing video samples of the two mobiles. We should note that at least Sony Ericsson are moving in the right direction with the K850 - K810 records video in QCIF and P1 in QVGA at 15fps, so the video in K850 is a step ahead. 
+K850 vs N95 - 1:5
+Sony Ericsson K850 sample video
+Nokia N95 sample video 

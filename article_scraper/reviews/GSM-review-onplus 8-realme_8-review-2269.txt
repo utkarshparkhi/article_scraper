@@ -1,0 +1,57 @@
+summary: Realme lately has been refreshing its device lineup in quite unusual ways. Instead of straight year-over-year upgrades to the same general model lines, the main goal is to stick, as close as possible, to a given price point. The vanilla Realme 8 was created in much the same way - the manufacturer started with the $210, or so MSRP of its predecessor.
+ oneliner: The Realme 8 is the latest smartphone from the Chinese manufacturer Realme, and it's available for pre-order now.
+ 
+
+
+Pricing
+		
+
+These are the best offers from our affiliate partners. We may get a commission from qualifying sales.
+
+
+
+
+
+64GB 4GB RAM
+$ 218.70
+€ 169.00
+
+
+128GB 6GB RAM
+$ 201.58
+€ 221.23
+
+
+128GB 4GB RAM
+₹ 15,839
+
+
+
+Show all prices
+
+
+Introduction
+Realme lately has been refreshing its device lineup in quite unusual ways. Instead of striving for straight year-over-year upgrades to the same general model lines, the main goal is to stick, as close as possible, to a given price point and then just decide what features currently fit in said MSRP. Choice and variety beyond that are covered by constantly introducing new models and slotting them creatively into the existing lineup. It's a system that leaves behind a confusing sea of devices and sometimes leads to some "side grades" instead of clear-cut "upgrades". 
+Case in point - the Realme 8 Pro, we recently reviewed, which notably gained a new 108MP camera over its predecessor, but also lost a few things like the stereo speaker, the water-repellent coating and slashed charging and selfie resolution. You get the point.
+
+The vanilla Realme 8 was created in much the same way - the manufacturer started with the $210, or so MSRP of its predecessor and fit whatever it could within the budget. Thankfully, however, unlike the Realme 8 Pro or the Realme 8 5G, which had to make some compromises for their respective 108MP camera and 5G headline features, the vanilla Realme 8 is, on paper, a straight upgrade.
+Realme 8 specs at a glance:
+
+Body: 160.6x73.9x8.0mm, 177g; Glass front, plastic frame, plastic back.
+Display: 6.40" Super AMOLED, 1000 nits (peak), 1080x2400px resolution, 20:9 aspect ratio, 411ppi; Always-on display.
+Chipset: Mediatek Helio G95 (12 nm): Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); Mali-G76 MC4.
+Memory:64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM; UFS 2.1; microSDXC (dedicated slot).
+OS/Software: Android 11, Realme UI 2.0.
+Rear camera: Wide (main): 64 MP, f/1.8, 26mm, 1/1.73", 0.8µm, PDAF; Ultra wide angle: 8 MP, f/2.3, 119, 16mm, 1/4.0", 1.12µm; Macro: 2 MP, f/2.4; Depth: 2 MP, f/2.4.
+Front camera: 16 MP, f/2.5, (wide), 1/3.0", 1.0µm.
+Video capture: Rear camera: 4K@30fps, 1080p@30/60/120fps, gyro-EIS; Front camera: 1080p@30/120fps, gyro-EIS.
+Battery: 5000mAh; Fast charging 30W, 50% in 26 min, 100% in 65 min (advertised).
+Misc: Fingerprint reader (under display, optical); NFC; FM radio; 3.5mm jack.
+Well, a contrary case could theoretically be made for the loss of the 90Hz refresh rate. However, we would personally take the new Super AMOLED panel of the Realme 8 any day, with its perfect blacks and an advertised 1000 nits of peak brightness.
+The new display is arguably the biggest change over the global version of the Realme 7. The new Realme 8 also borrows its 64MP Quad-Bayer main camera from the Asian version of the Realme 7, which constitutes another upgrade over the 48MP unit on the global model. The fingerprint reader is now a trendier under-display one instead of a traditional side-mounted unit.
+
+Aside from these and a few smaller details here and there, the Realme 8 successfully retains most other aspects of the Realme 7, like the Helio G95 chipset, 5000mAh battery and 30W charging - all somehow crammed into an all-round smaller and lighter body than last year. Color us impressed. But, before we continue with the design tour, we should start with the retail package and its contents.
+Unboxing
+Bright, yellow, eye-catching boxes have mostly been the standard for recent Realme phones. The Realme 8 is no exception. Beyond the particular color choice, there is nothing special about the two-piece box. It is nice and sturdy and a plastic internal cradle for the phone itself. No complaints there.
+
+The accessory package is pretty rich. That is to say, you get a transparent soft TPU case, so you can start using the Realme 8 right away. The charger you get is a 30W Dart unit. That comes alongside a Type-A to Type-C USB cable. This is a special cable, rated to withstand the full 5V@6A output of the charger. It also has an additional data pin for communication and negotiation with the phone. You need to hold on to that or else, you will be limited to 5V@2A from the bundled charger with a regular cable. That's one downside of using proprietary charging tech. 

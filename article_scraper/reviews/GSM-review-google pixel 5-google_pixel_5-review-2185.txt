@@ -1,0 +1,984 @@
+summary: Google Pixel 5 has a 6-inch display with a punch-hole selfie camera cut out. It comes with the slimmest bezels we've ever seen on a Pixel phone. It also has a beefier 4080mAh battery compared to the Pixel 4 XL's 3,800 mAh.
+ oneliner: Google's latest flagship phone, the Pixel 5, has gone on sale in the US.
+ 
+
+
+Pricing
+		
+
+These are the best offers from our affiliate partners. We may get a commission from qualifying sales.
+
+
+
+
+
+128GB 8GB RAM
+€ 678.85
+€ 869.00
+
+
+
+Show all prices
+
+
+Introduction
+This year, Google has taken a drastically different approach with the Pixel lineup. They've focused on providing a great user experience without maxing out the specs on the processor or the screen. The Pixel 5 maybe this year's Google's flagship, but it's not a flagship device as we know it.
+
+First, Google did away with the finnicky radar sensors that enabled Motion Sense features on the Pixel 4 and 4 XL. Motion Sense wasn't really as useful as the advertisements made it out to be. Because of this, the fingerprint scanner is back. Next, we don't have the latest Snapdragon chipset on the Pixel, but we do get the capable Snapdragon 765G with support for 5G networks. Finally, the Pixel 5 swaps out the 2X telephoto from last year in favor of a new ultra-wide camera.
+The overall form factor is far more manageable with a 6-inch display with a punch-hole selfie camera cut out and compact size. The Pixel 5's design is largely based on the Pixel 4a that came just weeks before it, but it comes with the slimmest bezels we've ever seen on a Pixel phone. It also has a beefier 4080mAh battery compared to the Pixel 4 XL's 3,800 mAh. Combined with the power-efficient Snapdragon 765G, the Pixel 5 should also see improvements in battery life, but we'll get to that. 
+Google Pixel 5 specs:
+
+Body: 144.7 x 70.4 x 8 mm; 151g; Gorilla Glass 6 front, recycled aluminum enclosure reinforced with plastic; Colors: Just Black and Sorta Sage; IP68
+Display: 6.0" Flexible OLED, 1080 x 2340 px resolution, 19.5:9 aspect ratio, 432ppi; Always-on display
+Chipset: Qualcomm SDM765 Snapdragon 765G (7 nm), Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver); Adreno 620 GPU
+Memory: 8GB RAM, 128GB UFS 2.1 storage
+OS/Software: Android 11, 3 years of OS and security updates
+Rear cameras: 12.2 MP dual-pixel autofocus, 1.4 µm pixels, OIS, f/1.7 aperture, 77-degree fov; Ultra-wide 16MP, 1µm pixel, f/2.2 aperture, 107-degree fov, fixed focus
+Front camera: 8MP, 1.12 µm pixels, f/2.0, fixed focus, 83-degree fov
+Video capture: Rear camera: 4K @ 60fps, 1080p @ 60fps or 120fps; Front: 1080p @ 30fps
+Battery: 4080mAh; 18W USB-C Power Delivery, Qi wireless charging up to 12W, reverse wireless charging up to 5W
+Misc: rear-mounted fingerprint scanner, ambient light sensor, Magnetometer, Barometer, Spectral and flicker sensor
+
+The Pixel 5 does achieve something new. It's got a housing made of recycled aluminum. However, it still supports wireless charging (and even supports reverse charging this year) - proving that smartphone makers don't need to make fragile glass sandwiches to achieve the popular feature. Google did this by putting the charging coil on the outside of the housing before applying the texturized coating and ran the coil through holes cut out of the back of the chassis.
+
+We can't help but think that Google is taking a step backwards with the Pixel 5. However, its lower price and focus on experience may be in Google's favor. The need for a cheaper headlining 5G smartphone is more urgent than in the past and its price point pins it up against the recently announced iPhone 12 Mini, the OnePlus 8T, and the Samsung Galaxy S20 FE.
+The camera hardware stays the same on paper, but we're curious to see if the software has allowed advancements in imaging. We'll keep an open mind and let you know if Google has solidified its software and camera experiences with the Pixel 5. Let's move into the box and see what's inside.
+Unboxing
+On the exterior, the Pixel 5's box shows the phone's picture with the chosen coat of color. Our model is the "Sorta Sage". The Pixel 5 comes with the bare necessities inside the box, which prominently features the #teampixel hashtag and 5G logos.
+
+The phone comes with some documentation, a SIM tool, USB "Quick Transfer adapter", 18W USB-C PD adapter, and USB-C charging/data cable. Google only included earbuds once with the Pixel 3 (XL) but later removed them for the Pixel 4 (XL) in the US, anyway.
+Let's take a closer look at the phone's design.
+summary: The Google Pixel 5 is the first 5G-enabled smartphone with a metal body construction. The 6-inch screen is protected by Gorilla Glass 6, and the 5 has a punch-hole cutout for the selfie camera. The Pixel 5 weighs 151g and measures 144.7 x 70.4 x 8 mm.
+ oneliner: Google has unveiled its latest Android smartphone, the Pixel 5, and it's got a lot going for it.
+ 
+Design
+The Google Pixel 5 is not your average glass sandwich as it's got a body made of recycled aluminum. In fact, Google deserves praise for proving that phone makers don't need to use plastic or glass to get a smartphone to support wireless charging. You see, aside from wireless charging, having a smartphone with glass on the back makes it much easier for RF signals to pass through and makes it more prone to damage. This metal body also makes the Pixel 5 the first 5G-enabled smartphone with a metal body construction (even if it's partially metal).
+As Google explains, the Pixel 5's charging coil is placed right on the outside of the aluminum chassis before the assembly is placed in an injection mold. The wiring for the coil passes through the metal shell before getting a layer of "bio-resin," which is basically a thin plastic layer. After that, the body is smoothened out and coated with either the "Just Black" or "Sorta Sage" exterior coating.
+
+Google says you won't be able to feel the coil behind the coating and its reasoning for going with this structure of materials over plastic or glass is to keep the phone thin. This coating feels unlike any other Android smartphone. It feels like granite or sandstone that's been smoothened out and soft to the touch. The grip here is superb and certainly better than that of any glass.
+
+The 6-inch screen is protected by Gorilla Glass 6, and just like the Pixel 4a, the 5 has a punch-hole cutout for the selfie camera. Under strong light, we can faintly see the proximity sensor behind the display, just below the earpiece. We appreciate these little touches that help keep the bezels slimmer than ever.
+
+Compared to the Pixel 4's 5.7-inch display, the Pixel 5 has got a larger 6-inch screen that fits in a device that's slimmer in every dimension, even shaving off some weight. This is due to the extra bulk that the radar sensors took up in the previous-gen Pixels. The Pixel 5 weighs 151g and measures 144.7 x 70.4 x 8 mm, and is rated IP68 water resistance.
+On the left side is a SIM card tray with space for a single nanoSIM. Remember that the Pixel 5 also supports an internal eSIM for dual SIM connectivity. The right side has a volume rocker and ultra-shiny power key. The accented power key on the Sorta Sage Pixel isn't painted in a different color as Google has done in the past. It has made this button and the "G" logo on the back shiny, giving them a nice contrast to the soft, textured exterior coating.
+
+The fingerprint scanner can be seen and felt easily at the back. Meanwhile, although there's a camera hump present, it doesn't protrude enough to cause the phone to rock back and forth on a table.
+
+There's no headphone jack on the Pixel 5, just the one USB-C connector at the bottom. The left port is a microphone, and the right port is one of two loudspeakers. There's also a tiny microphone hole in the camera square on the back.
+
+The overall design very closely mimics the Pixel 4a but with a slightly larger display and, of course, the dual cameras. We are content with the rounded sides and high-grip material on the back of the Pixel 5. We are glad to see more phone makers revert to more compact form factors as things have been getting a little out of hand, pun intended.
+
+Next up, let's dive into the lab tests. We'll check out the display reading and battery endurance numbers from our lab tests.
+summary: The Google Pixel 5 has a Flexible OLED display with Full HD+ resolution (1080 x 2340 px) and an aspect ratio of 19.5:9. This display spans 6 inches diagonally, which comes out to 432ppi. Unlike the Pixel 4a or 4a 5G, the Pixel 5 is the only 2020 Pixel model with 'Smooth Display'
+ oneliner: Google's latest flagship smartphone, the Pixel 5, comes with a 90Hz display, which is an improvement over the Pixel 4a.
+ 
+90Hz OLED Smooth Display
+The Google Pixel 5 has a Flexible OLED display with Full HD+ resolution (1080 x 2340 px) and an aspect ratio of 19.5:9. This display spans 6 inches diagonally, which comes out to 432ppi. It supports HDR content and Full 24-bit color rendering. Unlike the Pixel 4a or 4a 5G, the Pixel 5 is the only 2020 Pixel model with 'Smooth Display' - which, in this case, means a 90Hz refresh rate.
+We're glad to see that brightness isn't an issue with the refresh rate anymore like it was with the first wave of Pixel 4 devices that would eventually be fixed with an OTA update. The responsiveness of the screen is as fluid as the display itself.
+
+The rounded corners of the display precisely follow the perimeter of the phone, smoothly flowing around the rounded corners, thus earning Google some points for design execution. While the Pixel 4a had a slightly larger lower bezel than the rest, the Pixel 5's bezels appear uniform all the way around.
+The display sees no noticeable color shift when turning the screen about until around the 45-degree mark. Even then, a slight blue-shift is barely noticeable. There's also no discoloration to report in the surrounding area of the punch-hole selfie camera.
+Color accuracy is excellent on the Pixel 5. In the default "Adaptive" mode, whites were not tinted blue as we've found to be a trend in many smartphones. Colors are deep and vibrant with great contrast. Adaptive mode yielded an average deltaE of 3 with a maximum of 6.1 in the DCI P3 color space. The "Natural" color mode is very close to accurate based on the sRGB color space. There was an average deviation of 1.9 and a maximum deviation of 3.1 with the Natural setting.
+
+A "Boosted" profile is also available, in case you think the Adaptive setting is too vivid and the Natural setting is too dull. Although there's no customizable color tuning for the Pixel 5, the three options keep the choices simple.
+Pixel phones before the Pixel 4a were unable to get brighter than their manual slider allowed them to, even if the "Adaptive Brightness" setting was activated. With the Pixel 5, the display will crank up to higher levels when exposed to direct sunlight.
+
+
+Display test
+100% brightness
+
+
+Black,cd/m2
+White,cd/m2
+Contrast ratio
+
+
+Oppo Reno4 Pro (Max Auto) 0 843 ∞
+
+
+OnePlus 8T (Max Auto) 0 815 ∞
+
+
+Apple iPhone 11 Pro 0 805 ∞
+
+
+Google Pixel 4a (Max Auto) 0 803 ∞
+
+
+OnePlus Nord (Max Auto) 0 756 ∞
+
+
+Google Pixel 5 (Max Auto) 0 699 ∞
+
+
+Apple iPhone 11 0.428 644 1505:1
+
+
+LG Velvet (Max Auto) 0 617 ∞
+
+
+Motorola Edge (Max Auto) 0 595 ∞
+
+
+LG Wing 5G (Max Auto) 0 586 ∞
+
+
+Oppo Reno4 Pro 0 508 ∞
+
+
+vivo X50 Pro (Max Auto) 0 503 ∞
+
+
+OnePlus 8T 0 497 ∞
+
+
+vivo X50 Pro 0 489 ∞
+
+
+LG Wing 5G 0 485 ∞
+
+
+Google Pixel 5 0 475 ∞
+
+
+Google Pixel 4a 0 456 ∞
+
+
+Google Pixel 4 XL 0 436 ∞
+
+
+Google Pixel 4 0 423 ∞
+
+
+Motorola Edge 0 416 ∞
+
+
+LG Velvet 0 405 ∞
+
+
+OnePlus Nord 0 323 ∞
+
+
+With the manual brightness slider, the Pixel 5 display achieved 475 nits. Meanwhile, with Adaptive Brightness set to ON, the display could go as high as 699 nits. While that's less than the Pixel 4a, it's still vastly better over the Pixel 4 and 4 XL's numbers. Sunlight legibility is no longer an area of compromise for this Pixel phone.
+
+Battery life
+Note: We updated the battery numbers for 60Hz and added new numbers for when the display is set to always run at a 90Hz refresh rate.
+When we look back to the Pixel 4's 2800 mAh power pack or the Pixel 4 XL's 3,700 mAh battery, the Pixel 5's 4,080 mAh cell is already larger than both. This, along with other factors like the power-efficient chipset, smaller display, and lack of power-hungry Motion Sense hardware, contributed to longer endurance for the Pixel 5. Battery life has always been a weak point in every Pixel flagship from the Pixel 4 and before, and Pixel 5 is a massive leap in the right direction. 
+We are glad to report that the Pixel 5 has the best battery life of any Pixel we have tested since the Pixel 3 XL.
+
+Even with Smooth Display enabled, our on-screen tests don't run in full 90Hz refresh rates. It's worth noting that the Pixel 5's display will only spike back up to 90Hz as soon as the display is touched such as when swiping out of a video or when you resume scrolling Twitter.
+In the 60Hz numbers, the phone yielded 25:54h of call time, 12:41h of web browsing, and 18:15h of video playback. Thanks to strong standby numbers as well, the Pixel 5's larger battery and lower-power chipset contributed to a significant boost in the battery endurance over its predecessors, reaching an overall rating of 95h.
+To calculate the following number, we enabled a developer option that allowed us to force the display to run at 90Hz at all time. This did tax the on screen tests, but only marginally.
+
+With the Smooth Display forced always at 90Hz, we saw an overall endurance score of 92h with 12.05h of web browsing and 16:57h of video. Since we only recalculated the on-screen tests, the call and standby scores are consistent between overall scores.
+We can't say this is the best battery performance we've seen from the Snapdragon 765G, especially considering the relatively small screen. 
+ Our battery tests were automated thanks to SmartViser, using its viSer App. The endurance rating above denotes how long a single battery charge will last you if you use the Google Pixel 5 for an hour each of telephony, web browsing, and video playback daily. We've established this usage pattern so that our battery results are comparable across devices in the most common day-to-day tasks. The battery testing procedure is described in detail in case you're interested in the nitty-gritty. You can check out our complete battery test table, where you can see how all of the smartphones we've tested will compare under your own typical use.
+Charging speed
+The Pixel 5 ships with the same 18W USB-C Power Delivery charger that shipped with the very first Google Pixel phone. With that, the Pixel 5 went from a depleted battery to 41% in half an hour. It took a total of 1:35h to fully charge the new Pixel.
+
+
+
+30min charging test (from 0%)
+
+
+Realme X50 Pro 5G
+95%
+
+
+OnePlus Nord
+60%
+
+
+Apple iPhone 11 Pro
+58%
+
+
+Samsung Galaxy S20 FE (25W)
+57%
+
+
+Apple iPhone 11
+55%
+
+
+Google Pixel 4
+49%
+
+
+Google Pixel 4a
+45%
+
+
+Google Pixel 5
+41%
+
+
+LG Wing 5G
+39%
+
+
+Samsung Galaxy S20 FE (15W bundled)
+37%
+
+
+Time to full charge (from 0%)
+
+
+Realme X50 Pro 5G
+0:38h
+
+
+OnePlus Nord
+1:05h
+
+
+Samsung Galaxy S20 FE (25W)
+1:10h
+
+
+Google Pixel 4
+1:27h
+
+
+Google Pixel 5
+1:35h
+
+
+Samsung Galaxy S20 FE (15W bundled)
+1:35h
+
+
+Google Pixel 4a
+1:37h
+
+
+LG Wing 5G
+1:41h
+
+
+Apple iPhone 11 Pro
+1:50h
+
+
+Perhaps Google prefers the balance of charging speeds and degradation of battery over time. Even so, speeds are decent enough, and the added battery endurance makes up for the charging speeds achieved by other proprietary charge standards.
+
+The Pixel 5 supports Qi wireless charging as well, with fast-charge speeds of up to 12W with a supported wireless charger and reverse wireless charging speeds of up to 5W for accessories like the Pixel Buds or other Qi-enabled smartphones.
+Speaker test
+Unfortunately, this phone review has been carried out in the US - far away from our usual office test lab - we are not able to provide a speaker test and recording for this phone. We will update this section as soon as we get a European review unit.
+summary: The Pixel 5 comes with Android 11 right out of the box. Since the software comes directly from Google, OTA updates don't need carrier or OEM approval before reaching the device. Google promises at least three years of major OS updates and security patches during the Pixel 5's product cycle.
+ oneliner: Google's latest flagship smartphone, the Pixel 5, has been released in the US, and here's what you need to know about it.
+ 
+Android's finest vanilla
+The Pixel 5 comes with Android 11 right out of the box. Since the software comes directly from Google, OTA updates don't need carrier or OEM approval before reaching the device. Google promises at least three years of major OS updates and security patches during the Pixel 5's product cycle.
+We've already  thoroughly reviewed the final release of Android 11 running on the Pixel 4, so here, we'll be focusing more on the Pixel-specific features, as well some of the major additions that come with Android 11.
+
+Pixel imprint is back on the Pixel 5, so setting up the fingerprint is just as it was before: touch the sensor a few times to register a fingerprint. In a world where regular use of protective masks makes facial recognition cumbersome for smartphones, we're glad to see it back.
+
+
+
+
+Setting up a fingerprint
+Starting with the home screens, you still have your Google feed on the left-most page, and you still must swipe up to access the app drawer. If you recall, the top row of apps within the drawer is part of the launcher's "App Suggestions," which now appear in the dock row of apps at the bottom of your home screens.
+
+
+
+
+Home screen • App suggestions
+If you remove one or more of the fixed app shortcuts from the dock, they will be replaced by a suggested app based on various contextual factors like time of the day, location, or frequency of use. It's worth noting that if you already have an app on your primary home screen, it may appear redundantly as a suggested app.
+
+The search bar lives at the bottom of the home screen, even as you flip through the pages so that it's easy to strike up a Google Search. Tapping the Assistant logo on the right side of the bar will immediately prompt a voice command. The search bar is either white or gray, depending on whether Dark Theme is enabled.
+
+
+
+
+
+App drawer • Home screen customizations
+The multi-tasking view is a little different now. App suggestions are no longer shown here, but there is a convenient screenshot shortcut and a "Select" option - convenient for quickly selecting and copying text off web pages. It will even recognize images that you can quickly run through Google Lens for further investigation.
+
+
+
+
+
+Recent apps • Screenshot • Selecting text • Select image for Lens search
+The Device Control menu is accessible by press-holding the power key. Aside from the power menu, it's also a shortcut for Google Pay, has an Emergency/SOS shortcut, and lets you customize a Home panel with shortcuts to your favorite smart lights or speakers.
+
+
+
+
+
+Device Control Menu • Adding home devices • Cards and passes • Light control
+Notifications have been updated in a couple of ways. For one, Conversation alerts are prioritized and moved further up in the notification shade. In its current implementation, not all notifications are properly recognized as "Conversations" unless the app's developer explicitly does so. We expect this feature to become more useful with time.
+
+Next up is the new Bubbles feature that mimics Facebook Messenger's Chat Heads and keeps floating shortcuts of conversations on top of your screen. While this makes it easy to quickly respond to an ongoing conversation without leaving another app, its implementation is still a little buggy. Plus, it's up to developers to enable the feature for their apps.
+
+
+
+
+
+Bubbles
+The priority of notifications is Conversations > Notifications (everything else) > Silent (weather, running app notifications).
+
+
+Conversations
+The "Now Playing" notification card has been revamped for Android 11. Now, any app's Now Playing card will remain at the very top of the notification shade. If more than one app was recently playing music or a video, these apps would form horizontal pages, so they don't take up space in the notification shade.
+
+
+
+
+Now playing: Compact • Full view • Select audio output
+There's also now a Notification History menu that lets you see any notifications you may have swiped away. The option, however, is disabled by default.
+
+
+
+Notification history
+Android 11 brings more privacy permission controls. The most significant change is that permissions will expire if the app is not actively used for extended periods. As well, you can set permissions on an "Ask every time" basis.
+
+
+
+Permissions
+Android's finally got a built-in screen recorder. It doesn't have any frame rate or resolution setting, but you can select whether to show screen touches, and you can choose whether to include microphone audio, on-device audio, or both.
+
+
+
+
+
+Screen recording 
+With Pixel 4, Google introduced a new voice recording app that would be able to transcribe text without an internet connection and can even take make out some of the topics being discussed, whether it's an interview or a lecture.
+Recently, Google updated its Recorder app to let you crop out chunks of audio by simply selecting and deleting blocks of text. This is a useful app for students and interviewers who would rather not sit there and skim through hours-long audio recordings. As of this writing, the Recorder app with transcription feature is a Pixel-exclusive feature, though there are some workarounds.
+
+
+
+
+
+
+Google Recorder app
+Performance
+With the Pixel 5, Google has retreated to using an upper-midrange processor instead of Qualcomm's top-of-the-line 800 series. Google is no longer in the spec race but would rather offer a well-polished package powered by the well-rounded Snapdragon 765G chipset. Along with both mmWave and sub-6Ghz 5G network support from the integrated X52 modem, this chipset is built on the 7nm process, which yields solid, power-efficient performance.
+The Snapdragon 765G consists of a performance cluster with two ARM Cortex-A76 cores at 2.4GHz and 2.2 GHz. Meanwhile, the power-efficient cluster contains six small ARM Cortex-A55 cores clocked at up to 1.8GHz. All cores may run at different speeds depending on the CPU load. 
+
+For graphics, the Adreno 620 is 20% faster than the Adreno 618, which is found with the Pixel 4a's Snapdragon 730G chipset.
+
+With the Pixel 5, there's 128GB of UFS 2.1 storage, which is the only memory configuration. There's no way of expanding the storage, either.
+RAM is up from the previous generation. After the long overdue bump up to 6GB of RAM on the Pixel 4 duo, the Pixel 5 comes with 8GB of LPDDR4x RAM, which is a welcome addition.
+Although Google hasn't specified (we've requested, but have yet to receive confirmation on this), we've preliminarily concluded that the Pixel 5 might be using UFS 3.0 or 3.1 storage. When tested with Androbench, the Pixel 5 is seeing significantly faster storage speeds over the Pixel 4 XL. It returned 930 MB/s in sequential read, 408 MB/s in sequential write, 189 MB/s in random read, and 204 MB/s in random write speeds.
+Update Oct 31, 2020: Testing the first Pixel 5 unit, which we received, turned in lower benchmark scores than expected from the Snapdragon 765G. We decided that our particular device was to blame, so we requested a second review device to compare. However, the second unit scored just as low, so we now feel confident publishing our Pixel 5 performance charts. 
+For comparison's sake, the charts below include only Snapdragon 765G devices, except the Pixel 4a, which has a Snapdragon 730G and is just used for context.
+Starting with the CPU-intensive Geekbench test, you will see that the Pixel 5 performs as well as you'd expect. 
+
+
+
+GeekBench 5 (single-core)
+Higher is better
+
+
+vivo X50 Pro
+636
+
+
+Xiaomi Mi 10 Lite 5G
+616
+
+
+OnePlus Nord
+610
+
+
+Oppo Reno3 Pro 5G
+609
+
+
+Google Pixel 5 (unit 2)
+594
+
+
+Google Pixel 5 (unit 1)
+592
+
+
+LG Velvet 5G
+586
+
+
+Motorola Edge
+586
+
+
+Google Pixel 4a
+553
+
+
+However, the CPU's multi-core performance is far behind the rest of the SD765G phones - scoring as low as the Pixel 4a.
+GeekBench 5 (multi-core)
+Higher is better
+
+
+OnePlus Nord
+1953
+
+
+vivo X50 Pro
+1937
+
+
+Xiaomi Mi 10 Lite 5G
+1927
+
+
+LG Velvet 5G
+1905
+
+
+Motorola Edge
+1862
+
+
+Oppo Reno3 Pro 5G
+1815
+
+
+Google Pixel 5 (unit 1)
+1647
+
+
+Google Pixel 5 (unit 2)
+1647
+
+
+Google Pixel 4a
+1626
+
+
+Antutu is a compound benchmark, which measures all aspects of the device performance - both the CPU and GPU, as well as RAM and even the storage speed.
+We don't usually publish the Antuti subscores, but here, it's important to note that the Pixel 5 scored relatively low in the graphics department - about as much as the Pixel 4a.
+The overall Antutu score puts the Pixel 5 somewhere between the Pixel 4a and the rest of the Snapdragon 765G devices.
+AnTuTu 8
+Higher is better
+
+
+vivo X50 Pro
+323736
+
+
+Xiaomi Mi 10 Lite 5G
+318117
+
+
+OnePlus Nord
+312794
+
+
+Oppo Reno3 Pro 5G
+308231
+
+
+Motorola Edge
+305989
+
+
+LG Velvet 5G
+297372
+
+
+Google Pixel 5 (unit 2)
+289261
+
+
+Google Pixel 5 (unit 1)
+288556
+
+
+Google Pixel 4a
+268714
+
+
+On to the graphics-intensive tests, and we started to see a pattern. The Pixel 5 and the Pixel 4a have the same screen resolution, so typically, you'd expect the device with the higher-grade chipset to score consistently higher in both on-screen and off-screen graphics tests.
+This is not the case here, though. In all of our benchmarks tests, the Pixel 5 scored significantly lower than even the Pixel 4a. The only exception was the 1440p off-screen Vulkan test in the 3DMark Slingshot Extreme benchmark, where the two scored on par with each other.
+GFX Car Chase ES 3.1 (offscreen 1080p)
+Higher is better
+
+
+OnePlus Nord
+21
+
+
+Xiaomi Mi 10 Lite 5G
+21
+
+
+Oppo Reno3 Pro 5G
+21
+
+
+vivo X50 Pro
+20
+
+
+LG Velvet 5G
+19
+
+
+Motorola Edge
+19
+
+
+Google Pixel 4a
+17
+
+
+Google Pixel 5 (unit 1)
+13
+
+
+Google Pixel 5 (unit 2)
+12
+
+
+GFX Car Chase ES 3.1 (onscreen)
+Higher is better
+
+
+OnePlus Nord
+19
+
+
+Motorola Edge
+18
+
+
+Oppo Reno3 Pro 5G
+18
+
+
+Xiaomi Mi 10 Lite 5G
+17
+
+
+vivo X50 Pro
+17
+
+
+Google Pixel 4a
+16
+
+
+LG Velvet 5G
+16
+
+
+Google Pixel 5 (unit 1)
+12
+
+
+Google Pixel 5 (unit 2)
+11
+
+
+Aztek Vulkan High (onscreen)
+Higher is better
+
+
+Oppo Reno3 Pro 5G
+19
+
+
+OnePlus Nord
+13
+
+
+Xiaomi Mi 10 Lite 5G
+12
+
+
+Motorola Edge
+12
+
+
+LG Velvet 5G
+11
+
+
+Google Pixel 4a
+9.6
+
+
+Google Pixel 5 (unit 1)
+7.9
+
+
+Google Pixel 5 (unit 2)
+7.5
+
+
+GFX Aztek ES 3.1 High (onscreen)
+Higher is better
+
+
+OnePlus Nord
+13
+
+
+Xiaomi Mi 10 Lite 5G
+12
+
+
+Motorola Edge
+12
+
+
+Oppo Reno3 Pro 5G
+12
+
+
+Google Pixel 4a
+11
+
+
+LG Velvet 5G
+11
+
+
+Google Pixel 5 (unit 1)
+9.1
+
+
+Google Pixel 5 (unit 2)
+8.3
+
+
+3DMark SSE ES 3.1 (offscreen 1440p)
+Higher is better
+
+
+Xiaomi Mi 10 Lite 5G
+3294
+
+
+OnePlus Nord
+3285
+
+
+vivo X50 Pro
+3214
+
+
+Oppo Reno3 Pro 5G
+3214
+
+
+Motorola Edge
+3004
+
+
+LG Velvet 5G
+2987
+
+
+Google Pixel 4a
+2487
+
+
+Google Pixel 5 (unit 1)
+2352
+
+
+Google Pixel 5 (unit 2)
+2318
+
+
+3DMark SSE Vulkan 1.0 (offscreen 1440p)
+Higher is better
+
+
+Xiaomi Mi 10 Lite 5G
+3080
+
+
+OnePlus Nord
+3067
+
+
+Oppo Reno3 Pro 5G
+2995
+
+
+vivo X50 Pro
+2983
+
+
+Motorola Edge
+2801
+
+
+LG Velvet 5G
+2758
+
+
+Google Pixel 5 (unit 1)
+2358
+
+
+Google Pixel 4a
+2275
+
+
+Google Pixel 5 (unit 2)
+2267
+
+
+It was surprising to see such a handicapped performance from a recent phone. Pixel devices have never topped benchmark leaderboards, and we were okay with that as long as they performed about as expected.
+It's an entirely different story, though, with the Pixel 5. For some reason, its processor is so severely de-tuned that it performs equal to or even lower than the company's cheaper Pixel 4a.
+We really hope there is a good reason for this handicapped performance. If we had to guess, it's as if Google only wanted in on the 5G train, so they've picked the SD 765G,  but they didn't need its performance or the battery penalty that comes with it, so they quietly tuned it down to Snapdragon 720 levels.
+summary: The Pixel 5 has a 12.2MP main camera with an f/1.7 aperture and Dual Pixel autofocus. It trades the dedicated 2X zoom telephoto camera in favor of an ultra-wide shooter. This camera equips a 16MP sensor with 1.0µm size pixels with a 107-degree field of view. The front-facing camera on the Pixel 5 is slightly different from the Pixel 4's. It's still 8MP and has an
+ oneliner: Google's latest flagship smartphone, the Pixel 5, comes with two cameras at the back.
+ 
+New software, same hardware
+The main camera is a 12.2MP snapper with f/1.7 aperture and Dual Pixel autofocus. Considering this camera hardware is the same on paper as the one we got last year in Pixel 4, we'll look out for camera improvements mostly in image and video processing.
+Like its predecessor, the Pixel 5 comes with dual rear cameras. Following the criticism that Google received last year for not including an ultra-wide camera on the Pixel 4 duo when literally every other competitor had one, the Pixel 5 trades the dedicated 2X zoom telephoto camera in favor of an ultra-wide shooter. This camera equips a 16MP sensor with 1.0µm size pixels. It uses an f/2.2 aperture lens with a 107-degree field of view. Granted, this isn't as wide as other competitors, but the lens distortion is kept to a minimum.
+
+Google's reasoning for replacing the 2X zoom camera instead of just adding a telephoto camera boils down to keeping costs down. It believes that Super-Res zoom is a viable replacement for the telephoto camera, and they are not entirely wrong. You can at least get by without having a telephoto camera by cropping from the main one. Still, there's no similar workaround for getting wider shots, so you might argue having an ultra-wide camera is preferable - if you had to choose just one extra camera. Though, granted, that's a choice we'd rather not be forced into making.
+The front-facing camera on the Pixel 5 is slightly different from the Pixel 4's. It's still 8MP and has an f/2.0 lens, but that lens is just a tad wider at 24mm (35mm camera equiv). For a selfie camera, this camera is quite wider than many, but there's a shortcut to zoom into 1.4X if you want to take a more cropped selfie that's more in-line with many other smartphone front-facing cameras.
+There's no autofocus on this front camera, and the lack of front-facing 3D sensors that Motion Sense had means that this camera needs to rely solely on the single selfie camera to take portrait selfies.
+
+The Pixel 5's camera brings a few new features. To start, you can now use Night Sight to shoot portrait photos. There's also a new Portrait Light feature that lets you add or adjust the lighting to a portrait subject's face. A new Google Photos update will also let you adjust the lighting of older portrait photos.
+Then there's the additions to the video camera. There are three new stabilization modes when shooting video. Locked, Active, and Cinematic Pan. The latter got the most attention during Google's live stream announcement, and it will basically shoot video in 60 fps and play it back at 1/2 speed.
+With the Pixel 5, Google dropped the Visual Core co-processor introduced with the Pixel 2. This ARM-based chip would aid in the image signal processing needed to produce Google's HDR+ photos, and it would eventually be used to optimize the Motion Sense hardware for face unlock on the Pixel 4 and 4 XL. When Google confirmed the Pixel 5 was dropping Visual Core, it also confirmed that through optimization, it was able to get similar camera performance with the Snapdragon 765G versus the Snapdragon 855 + Visual Core combination.
+Google's camera UI is as simple as ever. Swipe across to access the different camera modes, and each mode has its own settings that are quickly accessed by a drawer button towards the earpiece.
+
+
+
+
+
+
+Camera UI: Photo • Video
+
+
+
+
+Camera settings
+As introduced with the Pixel 4, you can adjust highlights and shadows right in the viewfinder using the sliders. It's worth noting if the phone is too hot from being in the sun or it gets stuffy in a case, it won't allow you to make these lighting adjustments on the fly, and you'll have to wait for it to cool down before you can play with these sliders again.
+
+
+
+
+Adjusting shadows and highlights in the viewfinder
+The new editing tools let you adjust portraits even after you take them. This even applies to older photos that weren't even shot with a Pixel phone. When entering the edit window of a portrait, the Blur and Portrait Light sliders are in the Adjustment tab. We like that you can select a point on the image to adjust the lighting on the subject's face(s).
+
+
+
+
+
+
+Sshots adjusting portrait lighting
+Image quality
+Let's start with the daylight photos. Photos are shot in 12.2 MP with the main camera, and even though the ultra-wide shooter has 16MP resolution, resulting images are output in 12.2 MP. The default camera images are quite good with great contrast, nice details, and dynamic range. We still get this blue-tinted characteristic in the photos that has been unique to Pixel phones, and, frankly, we think some of these images could look more pleasing if they were a tad bit warmer.
+The level of resolved detail is generally good, though the Google camera tends to prioritize details in shadows over those that are just nearly lost in highlights. Overcast lighting results in dull overall tones that could desperately use some of that warmth we mentioned earlier. Sharpness, in otherwise bright conditions, is spot on. Skies always appear pleasant and with barely any noise throughout.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daylight samples
+Ultra-wide photos are shot with the secondary camera and with a 107-degree field of view. Although this camera doesn't have any autofocus adjustment, the sharpness of the photos is pretty good. Ultra-wide shots are consistent with the main camera in color reproduction, and it even keeps up with resolved details and sharpness in ideal lighting.
+
+
+
+
+
+
+
+
+Daylight ultra-wide samples
+Super-Res zoom uses Google's HDR+ algorithm to compensate for the lack of a dedicated telephoto camera. 2X zoomed-in shots are by no means "lossless," but they do produce nice shots given the hardware limitation (i.e., lack of a higher-resolution sensor). Still, there's a noticeable drop in sharpness and resolved detail with these kinds of photos. These photos still output at 12.2 MP despite using a crop of the main sensor.
+
+
+
+
+
+
+
+
+2X Super-res zoom samples
+Portraits
+The Portrait mode crops in by 1.4X (called 1X in portrait mode) and offers a further crop of 2X (called 1.3X in portrait mode), which still needs to crop out of the primary 12.2 MP camera, so images gradually degrade depending on the crop you go with.
+
+
+
+
+Standard shot 1X • Portrait "1X" • Portrait "1.3X"
+With Pixel 4, Google used information from the main and telephoto cameras to create a more realistic looking bokeh effect, taking more depth information into account. Since there's no longer a telephoto camera on the Pixel 5 and the ultra-wide doesn't feature an autofocus lens, the main camera no longer has this second eye to distinguish depth, so this phone's portraits rely on the main camera only to create the bokeh effect. This is a step backward from the portraits' quality that we saw on the Pixel 4 last year.
+
+
+
+
+
+1X portraits
+Portraits are good enough. Colors, contrast, white balance, and dynamic range are consistent with the regular shooting mode, but there's the exception of resolved details, which are not as crisp due to this crop.
+
+
+
+
+
+1.3X portraits
+The Pixel 5 tries to make a bokeh based on depth, but it doesn't do as well as the Pixel 4 did. It's not to say that Portrait shots are terrible, but the bokeh effect can be hit or miss. It tends to work better with a background that more drastically contrasts the foreground. At the "1.3X" crop (which is literally a 2X crop of the main sensor), we can start to tell they are cropped. Of course, the average person likely won't spot this once it's been compressed and uploaded to social apps.
+We admit that lighting wasn't a best-case scenario in our samples, but quickly loading the photo in the Google Photos app lets you adjust the new Portrait Lighting setting. We wonder why Google can't put more of the automated adjustments it suggests in Google Photos directly into the camera's algorithm.
+
+
+
+
+Adjusting Portrait Lighting
+Selfies
+The 8MP selfie sensor is showing its age in a time where midrange selfie cameras are seeing 32 MP sensors on the regular. In any case, selfies are generally good with great details and nice, vibrant colors. Dynamic range is quite good as well, even managing to capture drastic ranges of lighting in selfies, though not as gracefully as on other flagships.
+There's a 1.4X zoom option in the selfie camera, which is more in line with other smartphones. Despite the zoom cropping from the 8MP sensor, it still samples up to output the same 8MP resolution.
+
+
+
+
+
+Selfies 1X
+Sharpness and contrast are both excellent as well, and, although the camera has a fixed focus lens, there's no issue with selfies being out of focus like we experienced with the Pixel 4a.
+
+
+
+
+
+Selfies 1.4X
+The front-facing camera can do portraits as well, and the same crop options are available.
+
+
+
+
+Portrait selfies 1X
+
+
+
+
+Portrait selfies 1.4X
+Night Sight
+Low light performance of the Pixel 5 is good enough. The ultra-wide camera does have a dimmer aperture, so photos with the main camera are generally better in low light conditions. We like the true-to-life colors and exposure of the low light photos, but the white balance can sometimes veer off just a bit. In any case, larger, higher-resolution sensors are ahead of Google's performance in this department.
+
+
+
+
+
+Low light (main camera)
+Night Sight only kicks in after a certain threshold of available light. Sometimes enabling the mode doesn't make any difference to the resulting image. When Night Sight is applied to the scene, the most significant difference is a reduction of noise. White balance may also change and lean warmer, but the overall image sees a better dynamic range at the expense of possible motion blur.
+
+
+
+
+
+Night Sight (main camera)
+The ultra-wide camera doesn't fare as well as the main camera in low light, but Night Sight does help the new camera capture better photos. Sharpness is noticeably inferior to the main camera's and more so here than in daylight photos.
+
+
+
+
+
+Low light (ultra-wide)
+
+
+
+
+
+Night Sight (ultra-wide)
+Finally, here are some low-light selfies to test out Night Sight. Although it can be grainy at times, Night Sight can make or break a low light selfie. The first selfie looks great, but the second one didn't fare due to the light source coming from behind the subject. Again, a Night Sight selfie can be a hit-or-miss.
+
+
+
+
+
+Selfie Night Sight: Off • On • Off • On
+Video
+Google introduced a newly revamped video camera for the Pixel 5. It's got improved sharpness, low-light performance, and it added a few new stabilization modes for more creative video capture. We'll get to those a bit later.
+The primary camera can capture 4K video at up to 60 frames per second. Meanwhile, the ultra-wide camera can record 4K video, but only up to 30fps. Even in 1080p recording, the ultra-wide camera still can't record video in 60 frames per second.
+With the main camera, 4K video looks great. Colors and exposure are accurate, and video is rendered with minimal noise. The resulting video has a bitrate of 46.7Mbps.
+
+The ultra-wide camera's 4K video was consistent with colors and even sharpness, but dynamic range was not as good as on the primary camera. Despite this, we're glad to see an ultra-wide camera on the Pixel 5, and it produces nice-looking video with low noise.
+
+It's common for 60fps video to take a hit in image quality, but the Pixel 5 is an exception. Full HD video at 60fps looks just as good as the 30fps counterpart.
+
+
+Like with 4K video, Full HD video shot with the ultra-wide camera is noticeably softer, and dynamic range doesn't let it see as well in the shadows anymore.
+
+There are three new video stabilization modes on the Pixel 5 which offer different use cases. There's the default Standard, Locked, Active, and Cinematic Pan. The Locked mode will try to stabilize video of something that's far away; this is meant for 2X video. We tested it with the resolution set to 4K video, but you can tell there's a lot of processing going on in the background based on the noise we see.
+
+Then there's Active stabilization, which shoots video with the ultra-wide camera to improve stabilization. Active mode will only output FullHD video at 30 fps.
+
+Then there's Cinematic Pan, which is the mode that Google showed off at the phone's live stream announcement. It essentially shoots video at 60 frames per second and then slows it down to half-speed. You'll still need a somewhat steady hand to get nice-looking clips.
+
+Stabilization is otherwise great without these modes with minimal shake and smooth panning.
+
+
+summary: The Google Pixel 5 is an evolution of the kind of smartphone that Google wants to offer. It solves the battery life issue that's plagued all Pixel phones before it, and it's taken a decision to switch up the hardware materials. The midrange processor might be a turn-off for some who would instead go with a cutting-edge chipset.
+ oneliner: The Google Pixel 5 is the company's latest flagship smartphone, and it has been priced at $799 (Â£569).
+ 
+Competition
+The Google Pixel 5's price point positions it in the same space as the newly-announced iPhone 12 mini, the Samsung Galaxy S20 FE, and the vivo X50 Pro. Although all of them are around the same price, some offer more value than others depending on your needs.
+Then other packages offer the same or more for a lower price. The first device that comes to mind is the OnePlus Nord, which has twice as many cameras and runs the same chipset for less. The Nord even has faster Warp Charging, but it does omit wireless charging. The OnePlus 8T is priced like the Pixel 5 but offers high-end performance and 120Hz smoothness.
+
+The iPhone 12 and iPhone 12 Mini are just arriving on the market, and this is the first year that these iPhones will offer 5G support. Their preliminary reviews reveal that battery life is weaker than their predecessors. Still, the iPhone cameras are top-tier, and iOS is smooth and responsive.
+The Pixel 5 has improved video recording this year with its processing tweaks and new stabilization modes. Suppose you're after something that's going to give you an even more advanced video recording experience. In that case, the vivo X50 Pro has a micro gimbal built into the camera assembly with some nifty controls and shooting modes.
+The LG Wing is an entirely different class. Aside from having a higher price, it's experimental T-shaped form factor brings a fresh way to interact with a smartphone. Both it and the vivo X50 Pro are running the same Snapdragon 765G chipset with support for 5G networks.
+
+
+
+
+
+
+
+Apple iPhone 12 • Apple iPhone 12 mini • OnePlus Nord • OnePlus 8T • vivo X50 Pro • LG Wing 5G
+Verdict
+The Google Pixel 5 is an evolution of the kind of smartphone that Google wants to offer. It solves the battery life issue that's plagued all Pixel phones before it, and it's taken a decision to switch up the hardware materials while keeping Google's obsession with using non-standard textures and an understated design and overall look. We are also glad to see something more compact and pocketable arriving in a sea of super long glass slabs.
+
+Google was creeping up on $1000 territory with the Pixel 4 XL but pumped the brakes with the Pixel 5 while cutting corners in just the right areas that don't compromise the overall experience. The midrange processor might be a turn-off for some who would instead go with a cutting-edge chipset, which both Samsung and OnePlus will gladly sell you for the same price. In any case, performance is adequate for a smartphone in this day in age (as my colleague Prasad would attest), and the Snapdragon 765G will age gracefully.
+Then there's the camera, which feels more like a side-step than advancement. Although Google is adamant about the features and improvements to the camera, the software side of photography can only improve so much. We feel that this ceiling has been reached, and Google is due to put out a new Pixel with a more advanced camera. The Pixel 2's camera was ahead of its time, but today the Google Pixel 5 is really just playing catch-up with the new ultra-wide camera. The selfie camera is also due for an update. 
+
+Google's implementation of Android 11 on the Pixel 5 is smooth and consistent - perhaps the best stock Android has ever gotten. It will be interesting to see Google's next step from here, but the Pixel 5 is a great first move for a lineup that's bound to benefit from a future high-end Pixel 5 "Pro" model if there ever is one.
+Pros:
+
+Less bezel, more screen, more pocketable
+Plastic-reinforced metal build with two-directional wireless charging
+Much-improved display brightness over Pixel 4
+Speakers are loud
+Superb battery endurance 
+Pixel-only features like Hold for Me and Robo Call-screening
+Finally, an ultra-wide camera on a Pixel
+
+Cons:
+
+Snapdragon 765G performance is severely handicapped in this phone
+Recycled main camera hardware with incremental improvements to image quality
+Limited to a single 128GB storage configuration
+No "XL" variant this year
+
+
+
+Pricing
+		
+
+These are the best offers from our affiliate partners. We may get a commission from qualifying sales.
+
+
+
+
+
+128GB 8GB RAM
+$ 629.99
+$ 857.00
+
+
+
+Show all prices
+
+
