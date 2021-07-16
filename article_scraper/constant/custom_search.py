@@ -1,0 +1,2 @@
+API_KEY = "AIzaSyAv89YuXbcAFxLuSgM4zJ8hvopvSVguYMU"
+SEARCH_ID = "7caa27e07a1ba2791"

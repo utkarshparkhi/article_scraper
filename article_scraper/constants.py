@@ -1,2 +1,4 @@
-import os
-APP_DIR = os.path.dirname(os.path.abspath(__file__))
+PUB_DATE = "pub_date"
+COMMENT_COUNT = "comments"
+RATING = "rating"
+DOMAIN = "domain"

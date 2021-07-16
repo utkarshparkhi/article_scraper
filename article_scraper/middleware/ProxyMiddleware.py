@@ -12,7 +12,7 @@ def new_tor_identity():
 class ProxyMiddleware(HttpProxyMiddleware):
     def process_response(self, request, response, spider):
         # Get a new identity depending on the response
-        if response.status != 200:
+        if response.status != 200 and spider.name == "GSM":
             new_tor_identity()
             return request
         return response
@@ -22,6 +22,7 @@ class ProxyMiddleware(HttpProxyMiddleware):
 
         # A new identity for each request
         # Comment out if you want to get a new Identity only through process_response
-        new_tor_identity()
-        request.meta['proxy'] = 'http://127.0.0.1:8118'
-        spider.log('Proxy : %s' % request.meta['proxy'])
+        if spider.name == "GSM":
+            new_tor_identity()
+            request.meta['proxy'] = 'http://127.0.0.1:8118'
+            spider.log('Proxy : %s' % request.meta['proxy'])

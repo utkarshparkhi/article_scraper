@@ -1,7 +1,10 @@
+import re
+
 import scrapy
 from bs4 import BeautifulSoup
 
 from article_scraper.utils import writer
+from article_scraper.constants import *
 
 
 class GSMArena(scrapy.Spider):
@@ -17,9 +20,11 @@ class GSMArena(scrapy.Spider):
     def get_review_page(self, response):
         soup = BeautifulSoup(response.body, 'html.parser')
         review_links = soup.find(id="reviews").find_all("div", {"class": "review-item-content"})
+
         for link in review_links:
+            pub_date = link.find("span", {"class": "meta-item-time"}).text
             yield scrapy.Request(url=self.base_url + link.a["href"], callback=self.get_review,
-                                 cb_kwargs={"pub_date": link.find("span", {"class": "meta-item-time"}).text})
+                                 cb_kwargs={PUB_DATE: pub_date})
         product_links = soup.find(id="review-body").find_all("div", {"class": "makers"})
         if len(product_links):
             product_links = product_links[0].find_all("a")
@@ -40,9 +45,14 @@ class GSMArena(scrapy.Spider):
         review = soup.find(id="review-body")
         rating = soup.find("span", {"class": "score"})
         if rating is not None:
-            kwargs.update({"rating": rating.text})
+            kwargs.update({RATING: rating.text})
         url = response.url
-        kwargs.update({"domain": self.name})
+        kwargs.update({DOMAIN: self.name})
+        comments = soup.find("li", {"class": "article-info-meta-link meta-link-opinions"})
+        if comments is not None:
+            comments = re.search(r"\(([0-9_]+)\)", comments.text)
+            comments = comments.group(1)
+            kwargs.update({COMMENT_COUNT: comments})
         writer.dump_data(review.text, url, **kwargs)
         next_page_url = soup.find("div", {"class": "article-pages col"})
         if next_page_url is not None:
