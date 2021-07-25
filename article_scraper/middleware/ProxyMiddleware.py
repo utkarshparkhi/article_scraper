@@ -1,3 +1,5 @@
+import time
+
 from scrapy.downloadermiddlewares.httpproxy import HttpProxyMiddleware
 from stem import Signal
 from stem.control import Controller
@@ -15,6 +17,10 @@ class ProxyMiddleware(HttpProxyMiddleware):
         if response.status != 200 and spider.name == "GSM":
             new_tor_identity()
             return request
+        elif response.status == 429:
+            time.sleep(60)  # If the rate limit is renewed in a minute, put 60 seconds, and so on.
+            return response
+
         return response
 
     def process_request(self, request, spider):

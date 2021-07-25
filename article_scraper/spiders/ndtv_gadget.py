@@ -45,5 +45,6 @@ class NDTVGadgets(scrapy.Spider):
         review = soup.find(id="center_content_div").find("div", {"class": "content_text row description"})
         review_text = review.text
         url = response.url
-        kwargs.update({DOMAIN: self.name})
+        kwargs.update({DOMAIN: self.name, "queries": [self.product]})
+
         writer.dump_data(review_text, url, **kwargs)

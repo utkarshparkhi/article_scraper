@@ -8,5 +8,8 @@ def dump_data(article, url, **kwargs):
         x = DB_CONFIG.review_col.insert_one(data)
         return x
     else:
-        x = DB_CONFIG.review_col.update_many({"url": url}, {"$set":data})
+        ex_data = DB_CONFIG.review_col.find_one({"url": url})
+        if 'queries' in ex_data.keys():
+            data['queries'] = list(set(data['queries'] + ex_data['queries']))
+        x = DB_CONFIG.review_col.update_many({"url": url}, {"$set": data})
         return x

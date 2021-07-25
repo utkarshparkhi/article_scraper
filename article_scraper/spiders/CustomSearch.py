@@ -1,7 +1,6 @@
 import scrapy
 from bs4 import BeautifulSoup
 
-from article_scraper.spiders.verge import Verge
 from article_scraper.constant.custom_search import API_KEY, SEARCH_ID
 from article_scraper.constants import *
 from article_scraper.utils import writer
@@ -11,7 +10,6 @@ class CustomSearch(scrapy.Spider):
     name = "google-custom-search"
 
     def start_requests(self):
-        print("HERE" * 50)
         url = f"https://www.googleapis.com/customsearch/v1?key={API_KEY}&cx={SEARCH_ID}&q={self.product}"
         yield scrapy.Request(url=url, callback=self.get_links)
 
@@ -42,7 +40,6 @@ class CustomSearch(scrapy.Spider):
         pub_date = soup.time
         if soup.time is not None:
             pub_date = pub_date['datetime']
-            kwargs.update({PUB_DATE:pub_date})
-
-        kwargs.update({DOMAIN: "verge"})
+            kwargs.update({PUB_DATE: pub_date})
+        kwargs.update({DOMAIN: "verge", "queries": [self.product]})
         writer.dump_data(text, response.url, **kwargs)
