@@ -6,8 +6,8 @@ from article_scraper.constants import *
 from article_scraper.utils import writer
 
 
-class CustomSearch(scrapy.Spider):
-    name = "google-custom-search"
+class Verge(scrapy.Spider):
+    name = "verge"
 
     def start_requests(self):
         url = f"https://www.googleapis.com/customsearch/v1?key={API_KEY}&cx={SEARCH_ID}&q={self.product}"
